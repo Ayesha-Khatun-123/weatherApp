@@ -1,0 +1,55 @@
+body {
+    background: url(nature.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+#input{
+    height:30px;
+    width:200px;
+    border-radius: 10px;
+    font-family:cursive;
+    font-weight: bold;
+    border: 2px  solid black;
+    font-size: 20px;
+    background-color:lightblue
+   
+}
+#search{
+    
+    height:30px;
+    width:100px;
+     color: grey;
+    border-radius: 10px;
+    font-family:cursive;
+    font-weight: bold;
+    border: 2px  solid black;
+    font-size: 20px;
+    background-color:lightblue;
+}
+    
+/*#location{
+    /*text-align: center;
+   
+    bottom: 40px;
+    justify-content: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+*/
+#weather{
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+#location{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    font-size: 30px;
+    margin-top: 20px;
+}
